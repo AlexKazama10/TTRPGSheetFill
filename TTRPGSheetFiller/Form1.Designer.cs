@@ -34,7 +34,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1076, 667);
+            this.ClientSize = new System.Drawing.Size(1062, 597);
             this.Name = "Form1";
             this.Text = "TTRPG Sheet Filler";
             this.ResumeLayout(false);
